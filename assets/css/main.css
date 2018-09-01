@@ -2112,6 +2112,10 @@
 						padding: 0 0 0 0.75em;
 					}
 
+a.button.fit.special.bottomb {
+    margin-top: 4em;
+}
+
 			@media screen and (max-width: 736px) {
 
 				ul.actions li {
